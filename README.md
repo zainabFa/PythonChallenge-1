@@ -1,6 +1,6 @@
 # PythonChallenge
 
-<b>Q.1:</b> If you have a group of owners who owned the list of files:<br>
+<b><u>Q.1:</u></b> If you have a group of owners who owned the list of files:<br>
 <b>files = {
     'Input.txt': 'Randy',<br>
     'Code.py': 'Stan',<br>
@@ -16,7 +16,7 @@ Your code should print the following output:<br>
 }</b>
 <br> <br>
 
-<b>Q.2:</b> If you have the following two lists:<br>
+<b><u>Q.2:</u></b> If you have the following two lists:<br>
 <b>Types= ['Car', 'Device', 'Fruit', 'Sport'] </b> <br>
 <b>Things= ['Apple', 'Tennis', 'Computer', 'Mercedes'] </b> <br>
 
